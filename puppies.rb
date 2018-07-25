@@ -29,7 +29,7 @@ def some_puppies(maxpups, pups1)
     puts "Get back on your puppy restriction"
   end
 end
-some_puppies
+some_puppies(8)
 
 
 # BONUS
